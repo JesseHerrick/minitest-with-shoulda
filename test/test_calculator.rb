@@ -1,5 +1,4 @@
-require 'minitest/autorun'
-require 'shoulda/context'
+require 'test_helper'
 require 'calculator'
 
 class TestCalculator < Minitest::Test
